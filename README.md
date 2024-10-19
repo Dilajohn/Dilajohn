@@ -1,3 +1,3 @@
-I am a positive, enthusiastic and competent Web Developer who,
-has built up a diverse range of skills, qualities and attributes 
-that guarantee a high performance.
+I'am a passionate UI/UX designer with a strong focus on creating intuitive and user-friendly digital experiences. 
+I am self-taught in JavaScript, Angular, and React and
+ I thrive in the intersection of aesthetics and functionality, constantly pushing to deliver seamless, user-centered solutions. 

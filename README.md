@@ -47,7 +47,7 @@ I'm a **UI/UX Designer** and a self-taught **Full Stack Web Developer** from Uga
 ### ✨ Featured Projects
 
 - 🔗 [Laceup E-commerce](https://github.com/Dilajohn/laceup) — A modern online shoe store built with **Next.js** and **Bootstrap**
-- 🔗 [Built by Okuja](https://github.com/Dilajohn/built-by-okuja) — A personal portfolio with **FastAPI + MySQL + Vercel/Heroku deployment**
+- 🔗 [Built by Okuja](https://github.com/Dilajohn/builtbyokuja) — A personal portfolio with **FastAPI + MySQL + Vercel/Heroku deployment**
 
 ---
 

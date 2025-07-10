@@ -54,7 +54,7 @@ I'm a **UI/UX Designer** and a self-taught **Full Stack Web Developer** from Uga
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/okuja-emmanuel-705450291/)
-- 🌐 [Portfolio](https://built-by-okuja.vercel.app)
+- 🌐 [Portfolio](https://builtbyokuja-eki9-10uuadc6x-dilajohns-projects.vercel.app/)
 - ✉️ Email: okujaemmanuel97@gmail.com
 
 ---

@@ -35,7 +35,7 @@
 
 ### 🧠 About Me
 
-I'm a **UI/UX Designer** and a self-taught **Full Stack Web Developer** from Uganda with a passion for building engaging digital experiences. I blend design thinking with code to bring ideas to life — from low-fidelity wireframes to fully deployed web apps.
+I'm a **UI/UX Designer** and a self-taught **Full Stack Web Developer**  with a passion for building engaging digital experiences. I blend design thinking with code to bring ideas to life — from low-fidelity wireframes to fully deployed web apps.
 
 🌱 Currently learning: Advanced backend security, DevOps, and AI/ML foundations  
 🛠️ Always experimenting with: microservices, JWT/OAuth2, Docker, and cloud deployment  

@@ -32,4 +32,4 @@ I build clean, scalable web applications with a strong focus on user experience.
 
 ---
 
-📬 [LinkedIn](www.linkedin.com/in/okuja-emmanuel-9368043b6) · [Portfolio](https://okuja-portfolio-9r0oluo6w-dilajohns-projects.vercel.app)
+📬 [LinkedIn](https://www.linkedin.com/in/okuja-emmanuel-9368043b6/) · [Portfolio](https://okuja-portfolio-9r0oluo6w-dilajohns-projects.vercel.app)

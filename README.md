@@ -9,9 +9,9 @@ I build clean, scalable web applications with a strong focus on user experience.
 
 ### Skills
 
-**Frontend** — React, Next.js, Angular, JavaScript,Figma  
+**Frontend** — React, Angular, JavaScript,  
 **Backend** — Python, FastAPI, Django,PostgreSQL  
-**Tooling** — Git, Docker, Vercel, Heroku, VS Code
+**Tooling** — Git, Docker,VS Code,Figma, Arduino
 
 ---
 

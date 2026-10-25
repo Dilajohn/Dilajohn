@@ -21,6 +21,7 @@ I build clean, scalable web applications with a strong focus on user experience.
 |---|---|---|
 | [AquaPulse Smart Fish Feeder](https://github.com/Walid26619/AQUA_PULSE_SMART_FISH_FEEDER) | An automatic fish feeder built around an ESP32, controllable from a web dashboard, with scheduled and manual feeding, live hopper level monitoring, and remote status reporting over Firebase. | c++, Arduino, react |
 | [Internship Logging and Evaluation System (ILES)](https://myproject-git-main-dilajohns-projects.vercel.app/) | ILES is a full-stack internship management platform for coordinating students, field mentors, lecturers, and administrators during an internship period. | react, Django, Vercel,Render,Neon |
+| [NeoGuard](https://github.com/holosion/neoguard-ai) |NeoGuard is an offline-aware neonatal monitoring prototype for organizing clinical staff, patients, monitoring devices, vital-sign readings, alerts, and historical trends. It combines a React dashboard, a FastAPI service, and PostgreSQL. A separate experimental AI package trains a research-only warning model. | HTML,CSS,JAVASCRIPT,FASTAPI, Vercel,Render,Neon |
 
 ---
 
@@ -32,4 +33,4 @@ I build clean, scalable web applications with a strong focus on user experience.
 
 ---
 
-📬 [LinkedIn](https://www.linkedin.com/in/okuja-emmanuel-9368043b6/) · [Portfolio](https://okuja-portfolio-9r0oluo6w-dilajohns-projects.vercel.app)
+📬 [LinkedIn](https://www.linkedin.com/in/okuja-emmanuel-9368043b6/) ·

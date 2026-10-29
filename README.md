@@ -23,6 +23,7 @@ I build clean, scalable web applications with a strong focus on user experience.
 | [Internship Logging and Evaluation System (ILES)](https://myproject-git-main-dilajohns-projects.vercel.app/) | ILES is a full-stack internship management platform for coordinating students, field mentors, lecturers, and administrators during an internship period. | react, Django, Vercel,Render,Neon |
 | [NeoGuard](https://github.com/holosion/neoguard-ai) |NeoGuard is an offline-aware neonatal monitoring prototype for organizing clinical staff, patients, monitoring devices, vital-sign readings, alerts, and historical trends. It combines a React dashboard, a FastAPI service, and PostgreSQL. A separate experimental AI package trains a research-only warning model. | HTML,CSS,JAVASCRIPT,FASTAPI,C++,ARDUINO, Vercel,Render,Neon |
 
+| [Hardware World](https://github.com/mdavidjeremiah/DBMS-project/tree/okuja--workflow) |Hardware World is a FastAPI, SQLAlchemy, MySQL, and vanilla JavaScript hardware-retail management system. It provides inventory, sales, procurement, payroll, ledger, JWT authentication, and role-based access control. |  FastAPI, SQLAlchemy, MySQL, and vanilla JavaScript |
 ---
 
 ### Currently
